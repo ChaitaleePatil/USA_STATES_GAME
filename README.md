@@ -3,8 +3,11 @@ USA_STATES_GAME is a Python project aimed at facilitating interactive learning o
 
 # How to Play:
 Start the Game: Run the game script.
+
 Enter State Names: Type the names of the states in the USA. If the entered names are correct, they will be displayed on the map accurately.
+
 Exiting the Game: To stop the game, simply type "exit". Upon exiting, a CSV file named "states_to_learn.csv" will be created.
+
 Review Unanswered States: Open the "states_to_learn.csv" file to view the names of the states that were not entered during gameplay. This feature ensures comprehensive learning by identifying areas for improvement.
 
 # Screenshots:

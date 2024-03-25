@@ -1,4 +1,4 @@
-![NEWLOGO](https://github.com/ChaitaleePatil/USA_STATES_GAME/assets/163013839/785d5add-ebb2-4302-ad49-6f6fb3c3c5eb)# USA_STATES_GAME
+# USA_STATES_GAME
 USA_STATES_GAME is a Python project aimed at facilitating interactive learning of the states of the United States. Leveraging Python's capabilities along with the Turtle and Pandas libraries, this game provides an immersive experience for users to enhance their geographical knowledge.
 
 # How to Play:
